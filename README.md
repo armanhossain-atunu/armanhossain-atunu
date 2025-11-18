@@ -43,8 +43,8 @@ I enjoy turning ideas into real projects and exploring **new technologies** ever
 ### 📫 Contact Me
 
 - **Email:** armanhossainatunu@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/armanhossainatunu)  
-- **Portfolio:** [Your Portfolio](https://armanhossainatunu.netlify.app/)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/armanhossainatunu)  
+- **Portfolio:** [Portfolio](https://armanhossainatunu.netlify.app/)  
 
 ---
 
