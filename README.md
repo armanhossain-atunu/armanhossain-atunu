@@ -36,7 +36,7 @@ I enjoy turning ideas into real projects and exploring **new technologies** ever
 
 ### 📊 GitHub Stats
 
-![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanhossain-atunu_icons=true&theme=radical)
 
 ---
 
