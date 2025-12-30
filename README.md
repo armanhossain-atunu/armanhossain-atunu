@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 </div>
-<table>
+<table align="center">
 <tr>
 <td align="center">
 
@@ -53,14 +53,6 @@
 ## 🔥 Contribution Graph
 ![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
 
-
-## 📌 Top Languages
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossain-atunu&layout=compact&theme=tokyonight" 
-    alt="Top Languages"
-  />
-</p>
 
 ## 🌐 Connect With Me
 <p align="left">
