@@ -1,7 +1,4 @@
 <h1>Hi there 👋</h1>
-
----
-
 <p align="center">
   <img 
     src="https://i.ibb.co.com/v6CZhVYC/armanhossainatunubanner.png"
@@ -10,16 +7,11 @@
   />
 </p>
 
-
----
-
 ## 🚀 About Me
 - 🌱 Learning **Next.js & the MERN Stack**
 - 💻 I enjoy creating **modern, scalable, & user-friendly interfaces**
 - 🎯 Focused on becoming a **professional Full-Stack Developer**
 - 🇧🇩 From Bangladesh
-
----
 
 ## 🛠 Tech Stack
 <div align="center">
@@ -38,22 +30,20 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
+<!-- Total stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=armanhossain-atunu&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armanhossain-atunu&theme=tokyonight" height="170" />
+
+<!-- Contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night" height="170" />
 
 </div>
-
----
 
 ## 🔥 Contribution Graph
 ![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
 
----
 
 ## 📌 Top Languages
 <p align="center">
@@ -63,8 +53,6 @@
   />
 </p>
 
-
----
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/armanhossainatunu" target="_blank">
@@ -74,7 +62,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 ⭐ **If you like my work, consider starring my repositories!**
