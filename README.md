@@ -1,7 +1,9 @@
+<h1>Hi there 👋</h1>
+---
 <p align="center">
   <img 
     src="https://i.ibb.co/fYYH8G5P/armanhossainatunubanner.png"
-    alt="Arman Hossain Atunu Banner"
+    alt="Arman Hossain Atunu"
     style="width:100%; max-height:300px; object-fit:cover;"
   />
 </p>
