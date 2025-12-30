@@ -36,7 +36,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -72,14 +71,18 @@
 ![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
 
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/armanhossainatunu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:armanhossainatunu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
----
+## 📫 Let's Connect
+
+<div align="center">
+
+### 💬 Social Media & Professional Networks
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armanhossainatunu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armanhossainatunu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](#) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanhossainatunu@gmail.com)
+
+</div>
+
+
 ⭐ **If you like my work, consider starring my repositories!**
