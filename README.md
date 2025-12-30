@@ -70,7 +70,6 @@
 ## 🔥 Contribution Graph
 ![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
 
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -78,11 +77,14 @@
 ### 💬 Social Media & Professional Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armanhossainatunu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armanhossainatunu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](#) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanhossainatunu@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/armanhossainatunu)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@armanhossainatunu)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/armanhossainatunu)
+
 
 </div>
+
 
 
 ⭐ **If you like my work, consider starring my repositories!**
