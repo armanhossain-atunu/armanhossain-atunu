@@ -6,11 +6,6 @@
     style="width:100%; max-height:300px; object-fit:cover;"
   />
 </p>
-<div>
-  
-<img src="https://komarev.com/ghpvc/?username=armanhossain-atunu&color=blue&style=for-the-badge" />
-
-</div>
 
 ## 🚀 About Me
 - 🌱 Learning **Next.js & the MERN Stack**
@@ -36,7 +31,7 @@
 </div>
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
 <!-- GitHub Streak -->
 <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=armanhossain-atunu&theme=neon&hide_border=false" alt="GitHub Streak" />
@@ -47,7 +42,7 @@
 <td colspan="2" align="center">
 
 <!-- Top Languages -->
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossain-atunu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://komarev.com/ghpvc/?username=armanhossain-atunu&color=blue&style=for-the-badge" />
 
 </td>
 </tr>
