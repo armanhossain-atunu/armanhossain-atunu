@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://i.ibb.co/fYYH8G5P/armanhossainatunubanner.png"
+    src="https://i.ibb.co.com/v6CZhVYC/armanhossainatunubanner.png"
     alt="Arman Hossain Atunu"
     style="width:100%; max-height:300px; object-fit:cover;"
   />
@@ -14,9 +14,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **Next.js, MERN Stack**
-- 💻 Love building **clean & user-friendly UIs**
-- 🎯 Goal: Become a **Full-Stack Web Developer**
+- 🌱 Learning **Next.js & the MERN Stack**
+- 💻 I enjoy creating **modern, scalable, & user-friendly interfaces**
+- 🎯 Focused on becoming a **professional Full-Stack Developer**
 - 🇧🇩 From Bangladesh
 
 ---
@@ -60,11 +60,15 @@
 </div>
 
 ---
-
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/armanhossainatunu
-- 🌍 Portfolio: coming soon 🚀
-- 📧 Email: armanhossain.atunu@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/armanhossainatunu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:armanhossainatunu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
