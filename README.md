@@ -6,9 +6,8 @@
     style="width:100%; max-height:300px; object-fit:cover;"
   />
 </p>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=armanhossain-atunu&show_icons=true&theme=tokyonight" height="170" />
+<div>
+  
 <img src="https://komarev.com/ghpvc/?username=armanhossain-atunu&color=blue&style=for-the-badge" />
 
 </div>
