@@ -1,8 +1,15 @@
+<p align="center">
+  <img 
+    src="https://i.ibb.co/fYYH8G5P/armanhossainatunubanner.png"
+    alt="Arman Hossain Atunu Banner"
+    style="width:100%; max-height:300px; object-fit:cover;"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Arman Hossain Atunu</h1>
 <h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 
-  <img src="https://i.ibb.co.com/fYYH8G5P/armanhossainatunubanner.png" alt="Arman Hossain Atunu Banner" hight="100%"  />
-
+---
 
 ## 🚀 About Me
 - 🌱 Learning **Next.js, MERN Stack**
@@ -28,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats (Grid View)
+## 📊 GitHub Stats
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=armanhossain-atunu&show_icons=true&theme=tokyonight" height="170" />
@@ -53,9 +60,9 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: (https://www.linkedin.com/in/armanhossainatunu)
-- 🌍 Portfolio: *(add link)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/armanhossainatunu
+- 🌍 Portfolio: coming soon 🚀
+- 📧 Email: armanhossain.atunu@gmail.com
 
 ---
 
