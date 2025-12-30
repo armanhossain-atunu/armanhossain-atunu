@@ -34,6 +34,24 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 </div>
+<table>
+<tr>
+<td width="50%">
+
+<!-- GitHub Streak -->
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=armanhossain-atunu&theme=neon&hide_border=false" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<!-- Top Languages -->
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossain-atunu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 
 
