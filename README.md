@@ -6,8 +6,12 @@
     style="width:100%; max-height:300px; object-fit:cover;"
   />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=armanhossain-atunu&color=blue&style=for-the-badge)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=armanhossain-atunu&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://komarev.com/ghpvc/?username=armanhossain-atunu&color=blue&style=for-the-badge" />
+
+</div>
 
 ## 🚀 About Me
 - 🌱 Learning **Next.js & the MERN Stack**
