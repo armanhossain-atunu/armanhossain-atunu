@@ -1,11 +1,13 @@
 <h1>Hi there 👋</h1>
 <p align="center">
   <img 
-    src="https://i.ibb.co.com/v6CZhVYC/armanhossainatunubanner.png"
+    src="https://i.ibb.co.com/Y7ptzrvp/armanhossainatunubanner.png"
     alt="Arman Hossain Atunu"
     style="width:100%; max-height:300px; object-fit:cover;"
   />
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=armanhossain-atunu&color=blue&style=for-the-badge)
+
 
 ## 🚀 About Me
 - 🌱 Learning **Next.js & the MERN Stack**
@@ -30,16 +32,7 @@
 
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
 
-<!-- Total stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=armanhossain-atunu&show_icons=true&theme=tokyonight" height="170" />
-
-<!-- Contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night" height="170" />
-
-</div>
 
 ## 🔥 Contribution Graph
 ![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
