@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman Hossain Atunu</h1>
 <h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 <p align="center">
-  <img src="https://i.ibb.co.com/fYYH8G5P/armanhossainatunubanner.png" alt="Arman Hossain Atunu Banner" />
+  <img src="https://i.ibb.co.com/fYYH8G5P/armanhossainatunubanner.png" alt="Arman Hossain Atunu Banner" hight="100%"  />
 </p>
 ---
 
