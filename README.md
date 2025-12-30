@@ -1,73 +1,61 @@
-# 👋 Hi, I’m Arman Hossain Atunu
-
-🌍 **Location:** Dhaka,Bangladesh  
-💻 **Role:** Web Developer | Full-Stack Enthusiast  
+<h1 align="center">Hi 👋, I'm Arman Hossain Atunu</h1>
+<h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 
 ---
 
-### About Me
-
-I’m a **passionate web developer** who loves building **modern, clean, and user-friendly web applications**. My main tools are:
-
-- **Frontend:** React.js  
-- **Backend:** Node.js & Express.js  
-- **Database:** MongoDB  
-- **Languages:** JavaScript, HTML, CSS  
-
-I enjoy turning ideas into real projects and exploring **new technologies** every day. 🚀  
+## 🚀 About Me
+- 🌱 Learning **Next.js, MERN Stack**
+- 💻 Love building **clean & user-friendly UIs**
+- 🎯 Goal: Become a **Full-Stack Web Developer**
+- 🇧🇩 From Bangladesh
 
 ---
 
-### 🔧 Tech Stack
+## 🛠 Tech Stack
+<div align="center">
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanhossain-atunu&label=Profile%20views&color=0e75b6&style=flat" alt="armanhossain-atunu" /> </p>
-
-
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats (Grid View)
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanhossain-atunu&show_icons=true&locale=en&layout=compact" alt="armanhossain-atunu" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=armanhossain-atunu&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=armanhossain-atunu&theme=tokyonight" height="170" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanhossain-atunu&show_icons=true&locale=en" alt="armanhossain-atunu" /></p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armanhossain-atunu&theme=radical)
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanhossain-atunu" alt="armanhossain-atunu" /></a> </p>
+</div>
 
 ---
 
-### 📫 Contact Me
-
-<p align="left">
-  <a href="mailto:armanhossainatunu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/armanhossainatunu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://armanhossainatunu.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-875DF8?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-  </a>
-</p>
+## 🔥 Contribution Graph
+![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
 
 ---
 
-💡 I’m always **open to collaborating** on web development projects and love **learning new things** every day!
+## 📌 Top Languages
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossain-atunu&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: (https://www.linkedin.com/in/armanhossainatunu)
+- 🌍 Portfolio: *(add link)*
+- 📧 Email: *(optional)*
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
