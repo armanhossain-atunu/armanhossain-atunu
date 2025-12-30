@@ -44,6 +44,7 @@ I enjoy turning ideas into real projects and exploring **new technologies** ever
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanhossain-atunu&show_icons=true&locale=en" alt="armanhossain-atunu" /></p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armanhossain-atunu&theme=radical)
 
 
 
