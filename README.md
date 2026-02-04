@@ -8,11 +8,16 @@
 </p>
 
 ## 🚀 About Me
-I’m a Frontend Developer focused on building modern, responsive, and user-friendly web applications using React.js and Next.js. I also work with Node.js, Express, and MongoDB to build full-stack solutions.
-- 🌱 Learning **Next.js & the MERN Stack**
-- 💻 I enjoy creating **modern, scalable, & user-friendly interfaces**
-- 🎯 Focused on becoming a **professional Full-Stack Developer**
-- 🇧🇩 From Bangladesh
+I am a dedicated Frontend Developer with hands-on experience in building modern, responsive, and user-friendly web applications. I primarily work with **React.js** and **Next.js** to create clean, scalable, and high-performance user interfaces.
+
+Alongside frontend development, I have working experience with **Node.js, Express.js, and MongoDB**, which allows me to understand and contribute to full-stack applications. I enjoy integrating REST APIs, handling authentication, and building data-driven features that solve real-world problems.
+
+I am passionate about writing clean, maintainable code and following best practices. I enjoy learning new technologies, improving performance, and collaborating with teams to deliver quality products. My long-term goal is to grow into a skilled **Full-Stack Developer** and contribute to impactful software projects.
+### 🎯 What I Focus On
+- Building **responsive and scalable web applications**
+- Creating **clean UI/UX** with performance in mind
+- Learning and improving **full-stack development skills**
+- Writing **clean, readable, and maintainable code**
 
 ## 🛠 Tech Stack
 <div align="center">
