@@ -8,6 +8,7 @@
 </p>
 
 ## 🚀 About Me
+I’m a Frontend Developer focused on building modern, responsive, and user-friendly web applications using React.js and Next.js. I also work with Node.js, Express, and MongoDB to build full-stack solutions.
 - 🌱 Learning **Next.js & the MERN Stack**
 - 💻 I enjoy creating **modern, scalable, & user-friendly interfaces**
 - 🎯 Focused on becoming a **professional Full-Stack Developer**
