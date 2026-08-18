@@ -1,111 +1,107 @@
 <h1 align="center">Hi there 👋, I'm Arman Hossain Atunu</h1>
 
-<h3 align="center">
-  AI Full-Stack Developer | Building Scalable, Secure & Modern Web Applications
-</h3>
-
+<!-- Dynamic Header Banner -->
 <p align="center">
   <a href="https://github.com/armanhossainatunu">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0284C7&height=240&section=header&text=Arman%20Hossain%20Atunu&fontSize=42&fontAlignY=34&desc=AI%20Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Prisma%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20MongoDB&descSize=14&descAlignY=58&fontColor=ffffff" width="100%" alt="Arman Hossain Atunu GitHub Banner"/>
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Arman%20Hossain%20Atunu&fontSize=40&fontAlignY=34&desc=AI%20Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Prisma%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Express%20%E2%80%A2%20MongoDB&descSize=14&descAlignY=58&fontColor=ffffff" 
+      alt="Arman Hossain Atunu Header Banner" 
+      width="100%"
+    />
   </a>
 </p>
 
+<!-- Animated Typing Text & Profile Views -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Full-Stack+Developer;Building+Scalable+Web+Applications;React+%2B+Next.js+%2B+TypeScript;Node.js+%2B+Express+%2B+Prisma;PostgreSQL+%2B+MongoDB+%2B+Redis;Clean+Code+%7C+Modern+UI+%7C+Scalable+Architecture" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+%2B+Prisma+%2B+PostgreSQL;Passionate+About+Clean+Code+%26+Modern+UI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=armanhossainatunu&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=armanhossain-atunu&label=Profile%20Views&color=0070f3&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm an **AI Full-Stack Developer** focused on building scalable, secure, and high-performance web applications.
-
-I enjoy transforming ideas into production-ready applications using modern frontend, backend, database, and cloud technologies.
-
-- 🚀 Building scalable full-stack web applications
-- ⚛️ Strong focus on React.js, Next.js & TypeScript
-- 🧠 Exploring AI-integrated application development
-- 🔧 Building RESTful APIs with Node.js & Express.js
-- 🗄️ Working with PostgreSQL, MongoDB & Prisma ORM
-- ⚡ Exploring Redis for caching and performance
-- 🔐 Implementing authentication, authorization & secure APIs
-- 📚 Continuously improving system design and backend architecture
-- 🎯 Goal: Build reliable, scalable and production-ready software
-
----
-
-## 🧑‍💻 Developer Profile
+## 🚀 About Me
 
 ```javascript
 const arman = {
-  name: "Arman Hossain Atunu",
-
-  role: "AI Full-Stack Developer",
-
-  location: "Dhaka, Bangladesh",
-
-  frontend: [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "TypeScript",
-    "React.js",
-    "Next.js",
-    "Tailwind CSS",
-    "DaisyUI",
-    "Bootstrap"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "JWT",
-    "Redis"
-  ],
-
-  database: [
-    "PostgreSQL",
-    "MongoDB",
-    "Prisma ORM"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman",
-    "Vite"
-  ],
-
-  cloud: [
-    "Vercel",
-    "Netlify",
-    "Firebase",
-    "Cloudinary"
-  ],
-
-  architecture: [
-    "RESTful APIs",
-    "Scalable Full-Stack Systems",
-    "Database Design",
-    "Authentication",
-    "Authorization",
-    "Caching"
-  ],
-
-  currentlyLearning: [
-    "AI Engineering",
-    "Advanced TypeScript",
-    "System Design",
-    "Backend Architecture",
-    "Production Engineering"
-  ],
-
-  goal:
-    "Build scalable, secure and AI-integrated web applications."
+    role: "AI Full-Stack Developer",
+    location: "Dhaka, Bangladesh",
+    code: ["JavaScript (ES6+)", "TypeScript", "React.js", "Next.js", "Node.js", "Express.js"],
+    database: ["PostgreSQL", "MongoDB", "Prisma ORM"],
+    architecture: ["RESTful APIs", "Microservices", "Scalable Full-Stack Systems"],
+    currentFocus: "Engineering AI-integrated, high-performance web applications."
 };
+---
+##
+## 🔥 Contribution Graph
+
+![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
+
+
+
+## 📫 Let's Connect
+
+
+
+<div align="center">
+
+
+
+### 💬 Social Media & Professional Networks
+
+
+
+<a href="https://www.linkedin.com/in/armanhossainatunu" target="_blank">
+
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
+
+
+
+<a href="https://facebook.com/armanhossainatunu1" target="_blank">
+
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+
+</a>
+
+
+
+<a href="https://medium.com/@armanhossainatunu" target="_blank">
+
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+
+</a>
+
+
+
+<a href="https://dev.to/armanhossainatunu" target="_blank">
+
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+
+</a>
+
+
+
+<a href="mailto:armanhossain.atunu@gmail.com" target="_blank">
+
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</a>
+
+
+
+</div>
+
+
+
+
+
+
+
+⭐ **If you like my work, consider starring my repositories!**
+
+nice desigen 
+
