@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Arman Hossain Atunu</h1>
+<h1 align="start">Hi there 👋,</h1>
 
 <!-- Dynamic Header Banner -->
 <p align="center">
-  <a href="https://github.com/armanhossainatunu">
+  <a href="https://github.com/armanhossain-atunu">
     <img 
       src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Arman%20Hossain%20Atunu&fontSize=40&fontAlignY=34&desc=AI%20Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Prisma%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Express%20%E2%80%A2%20MongoDB&descSize=14&descAlignY=58&fontColor=ffffff" 
       alt="Arman Hossain Atunu Header Banner" 
@@ -21,19 +21,62 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
-```javascript
-const arman = {
-    role: "AI Full-Stack Developer",
-    location: "Dhaka, Bangladesh",
-    code: ["JavaScript (ES6+)", "TypeScript", "React.js", "Next.js", "Node.js", "Express.js"],
-    database: ["PostgreSQL", "MongoDB", "Prisma ORM"],
-    architecture: ["RESTful APIs", "Microservices", "Scalable Full-Stack Systems"],
-    currentFocus: "Engineering AI-integrated, high-performance web applications."
-};
-```javascript
+I am an **AI Full-Stack Developer** focused on building modern, scalable, secure, and high-performance web applications. I work across the frontend and backend using **React.js, Next.js, TypeScript, Node.js, Express.js, Prisma ORM, PostgreSQL, MongoDB, and Redis**.
+
+I enjoy turning ideas into production-ready applications with clean architecture, intuitive UI/UX, reliable APIs, and well-structured databases. I am continuously improving my skills in **AI engineering, backend architecture, system design, and scalable application development**.
+
+### 🎯 What I Focus On
+
+- 🚀 Building **scalable and high-performance web applications**
+- ⚛️ Developing modern **React.js & Next.js** interfaces
+- ⚙️ Building secure and reliable **Node.js & Express.js APIs**
+- 🗄️ Designing applications with **PostgreSQL, MongoDB & Prisma ORM**
+- ⚡ Improving application performance with **Redis & caching**
+- 🔐 Implementing **authentication, authorization & API security**
+- 🧠 Exploring **AI-integrated application development**
+- 🧹 Writing **clean, readable, maintainable, and production-ready code**
+- 📚 Continuously learning **system design and backend architecture**
+
+
+
+
+<h2 align="start">🛠️ Tech Stack</h2>
+
+<h3>🎨 Frontend</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+<h3>⚙️ Backend</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
+</p>
+
+<h3>🗄️ Database & ORM</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis" />
+</p>
+
+<h3>☁️ Tools & Deployment</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,firebase" />
+</p>
+
+<h3>🧠 AI & Development</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,openai" />
+</p>
+
+
+
+
 ## 🔥 Contribution Graph
 
 ![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
@@ -84,7 +127,7 @@ const arman = {
 
 
 
-<a href="mailto:armanhossain.atunu@gmail.com" target="_blank">
+<a href="mailto:armanhossainatunu@gmail.com" target="_blank">
 
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
@@ -102,5 +145,4 @@ const arman = {
 
 ⭐ **If you like my work, consider starring my repositories!**
 
-nice desigen 
 
