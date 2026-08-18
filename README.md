@@ -1,9 +1,22 @@
 <h1>Hi there 👋</h1>
+<!-- Banner Header -->
+<p align="center">
+  <a href="https://github.com/armanhossainatunu">
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Arman%20Hossain%20Atunu&fontSize=42&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Stack&descSize=18&descAlignY=62&fontColor=ffffff" 
+      alt="Arman Hossain Atunu Header Banner" 
+      width="100%"
+    />
+  </a>
+</p>
+
+<!-- Optional Image Banner with Modern Styling -->
 <p align="center">
   <img 
-    src="https://i.ibb.co.com/Y7ptzrvp/armanhossainatunubanner.png"
-    alt="Arman Hossain Atunu"
-    style="width:100%; max-height:300px; object-fit:cover;"
+    src="https://i.ibb.co.com/Y7ptzrvp/armanhossainatunubanner.png" 
+    alt="Arman Hossain Atunu Profile Banner" 
+    width="100%" 
+    style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); display: block; margin: 0 auto;"
   />
 </p>
 
