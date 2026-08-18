@@ -1,25 +1,15 @@
 <h1>Hi there 👋</h1>
 <!-- Banner Header -->
+<!-- Dynamic Header Banner -->
 <p align="center">
   <a href="https://github.com/armanhossainatunu">
     <img 
-      src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Arman%20Hossain%20Atunu&fontSize=42&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Stack&descSize=18&descAlignY=62&fontColor=ffffff" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Arman%20Hossain%20Atunu&fontSize=40&fontAlignY=34&desc=AI%20Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Prisma%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Express%20%E2%80%A2%20MongoDB&descSize=14&descAlignY=58&fontColor=ffffff" 
       alt="Arman Hossain Atunu Header Banner" 
       width="100%"
     />
   </a>
 </p>
-
-<!-- Optional Image Banner with Modern Styling -->
-<p align="center">
-  <img 
-    src="https://i.ibb.co.com/Y7ptzrvp/armanhossainatunubanner.png" 
-    alt="Arman Hossain Atunu Profile Banner" 
-    width="100%" 
-    style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); display: block; margin: 0 auto;"
-  />
-</p>
-
 ## 🚀 About Me
 I am a dedicated Frontend Developer with hands-on experience in building modern, responsive, and user-friendly web applications. I primarily work with **MERN Stack** & **Next.js** to create clean, scalable, and high-performance user interfaces. My long-term goal is to grow into a skilled **Full-Stack Developer** and contribute to impactful software projects.
 ### 🎯 What I Focus On
