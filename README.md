@@ -33,8 +33,7 @@ const arman = {
     architecture: ["RESTful APIs", "Microservices", "Scalable Full-Stack Systems"],
     currentFocus: "Engineering AI-integrated, high-performance web applications."
 };
----
-##
+```javascript
 ## 🔥 Contribution Graph
 
 ![Arman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armanhossain-atunu&theme=tokyo-night)
