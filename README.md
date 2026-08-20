@@ -35,11 +35,9 @@ I enjoy turning ideas into production-ready applications with clean architecture
 - 🗄️ Designing applications with **PostgreSQL, MongoDB & Prisma ORM**
 - ⚡ Improving application performance with **Redis & caching**
 - 🔐 Implementing **authentication, authorization & API security**
-- 🧠 Exploring **AI-integrated application development**
-- 🧹 Writing **clean, readable, maintainable, and production-ready code**
-- 📚 Continuously learning **system design and backend architecture**
-
-
+- 🤖 Exploring **AI-powered application development**
+- 📈 Focused on performance, scalability, & clean code
+- 🌱 Continuously improving **my system design, backend architecture, & AI engineering skills**
 
 
 <h2 align="start">🛠️ Tech Stack</h2>
